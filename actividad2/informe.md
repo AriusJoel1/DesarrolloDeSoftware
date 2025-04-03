@@ -6,7 +6,7 @@ La **Infraestructura como Código (IaC)** permite definir y gestionar la infraes
 - **Idempotencia**: Herramientas como *Terraform* y *Ansible* aseguran que las configuraciones sean consistentes sin cambios innecesarios.
 - **Versionado y auditoría**: Cada cambio en la infraestructura puede ser rastreado y revertido si es necesario.
 - **Automatización y escalabilidad**: Reduce la dependencia de configuraciones manuales y facilita el crecimiento de la infraestructura.
-- 
+  
 ## Contenerización para la Portabilidad y Consistencia
 Los contenedores han transformado la forma en que se despliegan las aplicaciones al proporcionar un entorno estandarizado y portátil. **Docker** es la herramienta más utilizada en este ámbito, permitiendo empaquetar aplicaciones junto con sus dependencias para asegurar una ejecución consistente en cualquier sistema operativo o infraestructura.
 Los contenedores eliminan problemas relacionados con entornos inconsistentes, optimizan el uso de recursos y aceleran el despliegue de nuevas versiones. Además, su integración con IaC permite automatizar la creación y gestión de entornos de ejecución, asegurando que las aplicaciones sean fácilmente escalables y mantenibles.
