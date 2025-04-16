@@ -1,6 +1,6 @@
 #Actividad 4
 
-### Configuración inicial de Git
+#### Configuración inicial de Git
 ```bash
 $ git config --global user.name "AriusJoel1"
 $ git config --global user.email "joel.seminario.s@uni.pe"
