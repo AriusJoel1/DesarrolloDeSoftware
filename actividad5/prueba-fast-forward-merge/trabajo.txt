@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Cambio dev1
-=======
-Cambio dev2
->>>>>>> dev2
