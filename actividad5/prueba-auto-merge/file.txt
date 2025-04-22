@@ -1,7 +1,0 @@
-Linea 1
-Linea 2
-<<<<<<< HEAD
-Footer: Fin del archivo
-=======
-Linea 3
->>>>>>> auto-merge
