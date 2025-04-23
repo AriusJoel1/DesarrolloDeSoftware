@@ -35,10 +35,10 @@ La coordinación y políticas claras son clave para evitar sobrescrituras y pér
 ## Evidencias Prácticas
 
 ### Configuramos el entorno utilizando el editor Nano
-![Imagen 1](./imagen1.png)
+![Imagen 1](./imagen1.png.png)
 
 ### Utilizamos el contenido editado en Nano para renombrar una rama.
-![Imagen 2](./imagen2.png)
+![Imagen 2](./imagen2.png.png)
 
 ### Verificamos la nueva rama renombrada
 ![Imagen 3](./imagen3.png)
