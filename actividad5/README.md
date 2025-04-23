@@ -6,27 +6,35 @@ Creamos un directorio e inicializamos en el repositorio.
 ![Imagen 1](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen1.jpg)
 
 Creamos 2 ramas y 
+
 ![Imagen 2](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen2.jpg)
 
 hacemos cambios en cada una de las 2 ramas y guardamos en commit
+
 ![Imagen 3](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen3.jpg)
 
 Nos cambiamos al main y fusionamos las ramas.  
+
 ![Imagen 4](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen4.jpg)
 
 Vemos el historial:  
+
 ![Imagen 5](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen5.jpg)
 
 Creamos nueva rama1 y txt y guardamos el commit.  
+
 ![Imagen 6](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen6.jpg)
 
 Creamos nueva rama2 y txt y guardamos el commit.  
+
 ![Imagen 7](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen7.jpg)
 
-Fusionamos la rama 1 y forzamos la creación del commit.  
+Fusionamos la rama 1 y forzamos la creación del commit.
+
 ![Imagen 8](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen8.jpg)
 
 Mostramos el historial de commits:  
+
 ![Imagen 9](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen9.jpg)
 
 ---
@@ -52,17 +60,18 @@ Mostramos el historial de commits:
 ## Segunda parte
 
 Creamos nuevo directorio e inicializamos.  
-![Imagen 10](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen10jpg)
+
+![Imagen 10](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen10.jpg)
 
 
 Creamos un archivo `index.html` y hacemos un commit.  
-![Imagen 11](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen11jpg)
+![Imagen 11](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen11.jpg)
 
 Creamos una nueva rama y agregamos contenido al archivo, luego realizamos un commit.  
-![Imagen 12](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen12jpg)
+![Imagen 12](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen12.jpg)
 
 Cambiamos de rama y agregamos un footer al `index.html`, luego hacemos un commit.  
-![Imagen 13](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen13jpg)
+![Imagen 13](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen13.jpg)
 
 Fusionamos y notamos el conflicto.  
 **Imagen 13**
