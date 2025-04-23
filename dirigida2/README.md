@@ -58,14 +58,17 @@ La coordinación y políticas claras son clave para evitar sobrescrituras y pér
 ### Instalación de hook correctamente: 
 ![Imagen 8](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen8.jpg)
 
-### Probamos el hooks permitiendo commits con comentarios 
+### Probamos el hooks permitiendo commits sin comentarios 
 ![Imagen 9](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen9.jpg)
 
-### Merge automatizado de una rama exitoso 
+### Probamos el hooks permitiendo commits con comentarios 
 ![Imagen 10](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen10.jpg)
 
-### Generando reporte de estado del repositorio 
+### Merge automatizado de una rama exitoso 
 ![Imagen 11](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen11.jpg)
+
+### Generando reporte de estado del repositorio 
+![Imagen 12](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen12.jpg)
 
 ### Inspeccionamos el archivo que generamos  
 ![Imagen 12](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen13.jpg)
