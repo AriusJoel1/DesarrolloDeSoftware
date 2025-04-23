@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/70dbb9d7-aa1a-4bfd-984c-32f2e60d9d10)Actividad 6: 
+Actividad 6: 
 
 creamos la carpeta para el proyecto 
 
