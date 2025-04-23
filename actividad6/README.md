@@ -131,7 +131,9 @@ Creamos el hook, guardamos y salimos luego de poner los comandos solicitados
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen21.jpg)
 
 Realizamos el hook ejecutable: 
+
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen22.jpg)
+
 
 ### Preguntas 
 1. Ejercicio para git checkout --ours y git checkout --theirs
