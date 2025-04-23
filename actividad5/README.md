@@ -74,16 +74,16 @@ Cambiamos de rama y agregamos un footer al `index.html`, luego hacemos un commit
 ![Imagen 13](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen13.jpg)
 
 Fusionamos y notamos el conflicto.  
-**Imagen 13**
+![Imagen 14](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen14.jpg)
 
 Solucionamos el conflicto.  
-**Imagen 14**
+![Imagen 15](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen15.jpg)
 
 Subimos y realizamos un commit.  
-**Imagen 15**
+![Imagen 16](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen16.jpg)
 
 Verificamos el historial.  
-**Imagen 16**
+![Imagen 17](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen17.jpg)
 
 ---
 
@@ -107,30 +107,28 @@ Para resolver el conflicto, primero Git detectó un problema al hacer `git merge
 ## Ejercicio adicional
 
 Creamos un directorio e inicializamos.  
-**Imagen 17**
+![Imagen 18](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen18.jpg)
 
 Creamos un archivo `file.txt` que diga "línea 1" y hacemos un commit. Luego le agregamos "línea 2" y hacemos otro commit.  
-**Imagen 18**
-
+![Imagen 19](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen19.jpg)
 Creamos otra rama y hacemos un commit.  
-**Imagen 19**
+![Imagen 20](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen20.jpg)
 
 Volvemos al main y hacemos cambio.  
-**Imagen 20**
+![Imagen 21](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen21.jpg)
 
 Fusionamos (automerge) en main.  
-**Imagen 21**
+![Imagen 22](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen22.jpg)
 
 Vemos el historial de commits.  
-**Imagen 22**
-
+![Imagen 23](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen23.jpg)
 ---
 
 ### Preguntas
 
 **¿Cuándo usarías un comando como `git revert` para deshacer una fusión?**
 
-Usarías `git revert` para deshacer una fusión cuando ya hiciste push o querés mantener el historial intacto, ya que crea un nuevo commit que revierte los cambios sin borrar nada.
+Usaria `git revert` para deshacer una fusión cuando ya hiciste push o querés mantener el historial intacto, ya que crea un nuevo commit que revierte los cambios sin borrar nada.
 
 **¿Qué tan útil es la función de fusión automática en Git?**
 
@@ -141,10 +139,10 @@ La fusión automática en Git es muy útil porque ahorra tiempo al combinar rama
 ## Última parte
 
 Creamos nueva rama para hacer cambios y realizamos commit.  
-**Imagen 23**
+![Imagen 23](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen23.jpg)
 
 Subimos (pusheamos) al repositorio.  
-**Imagen 24**
+![Imagen 24](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen24.jpg)
 
 ---
 
@@ -163,22 +161,21 @@ La estrategia se enfoca en usar Pull Requests (PRs) para revisar y aprobar cambi
 ---
 
 Creamos proyecto con 3 ramas.  
-**Imagen 25**
+![Imagen 25](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen25.jpg)
 
 Entramos en cada rama.  
-**Imagen 26**
-
+![Imagen 26](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen26.jpg)
 Realizamos cambios en la rama 1.  
-**Imagen 27**
+![Imagen 27](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen27.jpg)
 
 Ahora para la rama 2.  
-**Imagen 28**
+![Imagen 28](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen28.jpg)
 
 Cambiamos a la rama main y fusionamos.  
-**Imagen 29**
+![Imagen 29](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen29.jpg)
 
 Creamos un archivo `txt` que diga "cambio en feature3", lo agregamos, hacemos un commit, luego otro commit adicional.  
-**Imagen 30**
+![Imagen 30](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen30.jpg)
 
 Cambiamos nuevamente a la rama principal, fusionamos `feature3` con `main` y revisamos el historial de commits.  
-**Imagen 31**
+![Imagen 32](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen32.jpg)
