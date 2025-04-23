@@ -3,31 +3,31 @@
 ## Primera parte
 
 Creamos un directorio e inicializamos en el repositorio.  
-![Imagen 1](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen1jpg)
+![Imagen 1](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen1.jpg)
 
 Creamos 2 ramas y 
-![Imagen 2](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen2jpg)
+![Imagen 2](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen2.jpg)
 
 hacemos cambios en cada una de las 2 ramas y guardamos en commit
-![Imagen 3](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida3/img/imagen3jpg)
+![Imagen 3](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen3.jpg)
 
 Nos cambiamos al main y fusionamos las ramas.  
-![Imagen 4](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida4/img/imagen4jpg)
+![Imagen 4](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen4.jpg)
 
 Vemos el historial:  
-![Imagen 5](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen5jpg)
+![Imagen 5](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen5.jpg)
 
 Creamos nueva rama1 y txt y guardamos el commit.  
-![Imagen 6](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida6/img/imagen6jpg)
+![Imagen 6](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen6.jpg)
 
 Creamos nueva rama2 y txt y guardamos el commit.  
-![Imagen 7](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida7/img/imagen7jpg)
+![Imagen 7](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen7.jpg)
 
 Fusionamos la rama 1 y forzamos la creación del commit.  
-![Imagen 8](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen8jpg)
+![Imagen 8](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen8.jpg)
 
 Mostramos el historial de commits:  
-![Imagen 9](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida5/img/imagen9jpg)
+![Imagen 9](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen9.jpg)
 
 ---
 
