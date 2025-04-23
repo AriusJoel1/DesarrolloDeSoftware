@@ -50,23 +50,23 @@ La coordinación y políticas claras son clave para evitar sobrescrituras y pér
 ![Imagen 5](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen5.jpg)
 
 ### Mostramos los cambios  
-![Imagen 6](./imagen6.png)
+![Imagen 6](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen6.jpg)
 
 ### Gestión de git diff 
-![Imagen 7](./imagen7.png)
+![Imagen 7](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen7.jpg)
 
 ### Instalación de hook correctamente: 
-![Imagen 8](./imagen8.png)
+![Imagen 8](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen8.jpg)
 
 ### Probamos el hooks permitiendo commits con comentarios 
-![Imagen 9](./imagen9.png)
+![Imagen 9](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen9.jpg)
 
 ### Merge automatizado de una rama exitoso 
-![Imagen 10](./imagen10.png)
+![Imagen 10](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen10.jpg)
 
 ### Generando reporte de estado del repositorio 
-![Imagen 11](./imagen11.png)
+![Imagen 11](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen11.jpg)
 
 ### Inspeccionamos el archivo que generamos  
-![Imagen 12](./imagen12.png)
-![Imagen 13](./imagen13.png)
+![Imagen 12](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen13.jpg)
+![Imagen 13](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen14.jpg)
