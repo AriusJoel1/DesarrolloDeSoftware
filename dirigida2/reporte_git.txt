@@ -1,0 +1,62 @@
+=== Estado del repositorio ===
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   merge.txt
+	new file:   test.js
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   actividad5/prueba-auto-merge (modified content)
+	modified:   actividad5/prueba-fast-forward-merge (modified content, untracked content)
+	modified:   src/app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_avanzado.sh
+	reporte_git.txt
+
+
+=== Ramas existentes ===
+  feature/authentication
+  feature/login
+  feature/ramarenombrada
+* main
+
+=== Últimos 5 commits ===
+commit 27af5e58686d41b1a9313d8e22a97169afc13cd6
+Author: AriusJoel1 <joel.seminario.s@uni.pe>
+Date:   Wed Apr 23 08:25:56 2025 -0500
+
+    Initial commit: versión inicial de app.js
+
+commit e8402c2dc64d1d28a0aa7776c18f7207afc7350d
+Author: AriusJoel1 <joel.seminario.s@uni.pe>
+Date:   Wed Apr 23 03:02:05 2025 -0500
+
+    actividad 8
+
+commit 17e7a86d4180c0dc3845a6be0092b3769852931e
+Author: AriusJoel1 <joel.seminario.s@uni.pe>
+Date:   Wed Apr 23 01:34:10 2025 -0500
+
+    subiendo el codigo completo
+
+commit 4bf998ecc6236e524262e479f3696d37d5b70905
+Author: AriusJoel1 <joel.seminario.s@uni.pe>
+Date:   Tue Apr 22 22:18:31 2025 -0500
+
+    resolviendo submodulos :c
+
+commit 9908740cb203131f983221c02e3738554b31121f
+Author: AriusJoel1 <joel.seminario.s@uni.pe>
+Date:   Tue Apr 22 21:53:18 2025 -0500
+
+    prueba de entraga agregando
+
+=== Lista de stashes ===
