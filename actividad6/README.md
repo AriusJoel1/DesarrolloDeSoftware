@@ -86,31 +86,31 @@ Fase 4:
 
 nos movemos de rama  
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen13.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen14.jpg)
 
 Y creamos un archivo conflicto  
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen14.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen15.jpg)
 
  Añadimos y hacemos el commit  
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen15.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen16.jpg)
 
  Cambiamos a la rama feature 2 
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen16.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen17.jpg)
 
 Creamos el conflicto: 
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen17.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen18.jpg)
 
 Añadimos y realizamos el commit 
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen18.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen19.jpg)
 
 Visualizando el conflicto 
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen19.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen20.jpg)
 
 Pregunta:  
 
@@ -126,7 +126,7 @@ integraciones y revisando cambios en conjunto antes de hacer merge.
 Fase 5: 
 
 Creamos el hook, guardamos y salimos luego de poner los comandos solicitados 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen20.jpg)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad6/img/Imagen21.jpg)
 
 ### Preguntas 
 1. Ejercicio para git checkout --ours y git checkout --theirs
