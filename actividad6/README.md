@@ -77,6 +77,7 @@ Pregunta:
 
 ¿Cómo ayuda git cherry-pick a mostrar avances de forma 
 selectiva en un sprint review? 
+
 git cherry-pick permite mover solo los commits que están listos desde una rama 
 de desarrollo hacia main, sin traer cambios incompletos. Esto ayuda a mostrar 
 avances específicos y funcionales durante el sprint review. Así, el equipo puede 
@@ -117,6 +118,7 @@ Pregunta:
 ¿Cómo manejas los conflictos de fusión al final de un sprint? 
 ¿Cómo puede el equipo mejorar la comunicación para evitar 
 conflictos grandes? 
+
 Al final de un sprint, manejo los conflictos de fusión resolviendo manualmente 
 los archivos en conflicto, validando que el código funcione, y luego haciendo 
 commit. Para reducir conflictos, es clave hacer rebases frecuentes con main 
