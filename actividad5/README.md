@@ -168,14 +168,17 @@ Entramos en cada rama.
 Realizamos cambios en la rama 1.  
 ![Imagen 27](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen27.jpg)
 
-Ahora para la rama 2.  
+Realizamos cambios en la rama 1: 
 ![Imagen 28](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen28.jpg)
 
-Cambiamos a la rama main y fusionamos.  
+Ahora para la rama 2.  
 ![Imagen 29](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen29.jpg)
 
-Creamos un archivo `txt` que diga "cambio en feature3", lo agregamos, hacemos un commit, luego otro commit adicional.  
+Cambiamos a la rama main y fusionamos.  
 ![Imagen 30](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen30.jpg)
+
+Creamos un archivo `txt` que diga "cambio en feature3", lo agregamos, hacemos un commit, luego otro commit adicional.  
+![Imagen 31](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen31.jpg)
 
 Cambiamos nuevamente a la rama principal, fusionamos `feature3` con `main` y revisamos el historial de commits.  
 ![Imagen 32](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad5/img/Imagen32.jpg)
