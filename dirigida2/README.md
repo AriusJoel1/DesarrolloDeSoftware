@@ -38,16 +38,16 @@ La coordinación y políticas claras son clave para evitar sobrescrituras y pér
 ![Imagen 1](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen1.png.jpg)
 
 ### Utilizamos el contenido editado en Nano para renombrar una rama.
-![Imagen 2](./imagen2.png.png)
+![Imagen 2](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen2.png.jpg)
 
 ### Verificamos la nueva rama renombrada
-![Imagen 3](./imagen3.png)
+![Imagen 3](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen3.jpg)
 
 ### Estamos en la nueva rama
-![Imagen 4](./imagen4.png)
+![Imagen 4](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen4.jpg)
 
 ### Renombramos una rama 
-![Imagen 5](./imagen5.png)
+![Imagen 5](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/dirigida2/img/imagen5.jpg)
 
 ### Mostramos los cambios  
 ![Imagen 6](./imagen6.png)
