@@ -115,6 +115,8 @@ Conexión a postgresql y usando dotenv para cargar el url y la contraseña
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/PE_triviagame/img/Imagen23.jpg)
 
+
 Conexcion a postgresql exitosa 
+
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/PE_triviagame/img/Imagen24.jpg)
 
