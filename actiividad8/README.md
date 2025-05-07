@@ -77,10 +77,12 @@ Agregamos los testeos a test_carrito.py
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/14.jpg)
 
 
-Agregamos varias funciones   
 
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/15.jpg)
+
+
+Agregamos varias funciones   
 
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/16.jpg)
@@ -99,8 +101,6 @@ Y testetamos
 
 
 
-
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/18.jpg)
 
 
 
