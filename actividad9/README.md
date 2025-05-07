@@ -15,7 +15,7 @@ Modificamos el archivo user_manager.py para agregarle la clase con sus respectiv
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/3.png)
 
 
-Creamos las funcionalidades de shopping cart y ejecutamos
+Creamos las funcionalidades de shopping cart y sus funcionalidades de agregar producto, calcular total y vaciar carrrito
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/7.png)
 
@@ -25,7 +25,7 @@ Agregamos la funcion no se puede agregar usuario existente con el objetivo de no
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/4.png)
 
 
-agregamos el email_service y tambien la funcion de testeo
+agregamos el email_service que simula que envía correos cuando agregamos a un usuario. Tambien implementamos la funcion de testeo para verificar que el servicio se llama corretamente durante el proceso
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/5.png)
 
