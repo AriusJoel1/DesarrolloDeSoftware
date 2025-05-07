@@ -27,26 +27,12 @@ Agregamos los testeos y ejecutamos
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/5.png)
 
 
-
-
-
 Le agregamos el atributo stock  
-
-
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/6.png)
 
 
-
-
-
-
-
-
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/7.png)
-
-
-
 
 
 Y le agregamos la siguiente función a la clase carrito 
@@ -65,17 +51,9 @@ Agregamos el stock como un random entero del 1 al 100
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/9.png)
 
 
-
-
-
-
 testeamos el código  
 
-
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/10.png)
-
-
-
 
 
 Agregamos la función (método) obtener_items_ordenados a la clase carrito 
@@ -89,10 +67,7 @@ Agregamos la función (método) obtener_items_ordenados a la clase carrito
 
 
 
-
-
 Creamos el archivo conftest.py  
-
 
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actiividad8/img/13.png)
