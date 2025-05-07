@@ -2,7 +2,7 @@
 
 Implementamos la funcion test para que verifica si un usuario puede ser agregado correctamente al sistema. Esta prueba inicialmente fallaráw. 
 
-![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/1.png)
+![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad9/img/8.png)
 
  la prueba fallará porque aún no hemos implementado la clase UserManager.
 
