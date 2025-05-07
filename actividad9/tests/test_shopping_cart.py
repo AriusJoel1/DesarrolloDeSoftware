@@ -1,6 +1,7 @@
 import pytest
+
 from unittest.mock import Mock
-from src.shopping_cart import ShoppingCart
+from shopping_cart import ShoppingCart
 
 
 
@@ -60,4 +61,5 @@ def test_process_payment_failure():
         cart.process_payment(total)
     
     assert str(exc_info.value) == "Pago fallado"
+
 
