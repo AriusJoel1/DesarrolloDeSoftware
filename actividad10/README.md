@@ -30,7 +30,7 @@ Y finalmente ejecutamos el testeo
 
 
 
-centralizamos la configuración del entorno de pruebas y de herramientas con setup.cfg
+Finalmente centralizamos la configuración del entorno de pruebas y de herramientas con setup.cfg
 
 ![](https://github.com/AriusJoel1/DesarrolloDeSoftware/blob/main/actividad10/img/7.png)
 
